@@ -19,6 +19,7 @@ public class RacingPlay : MonoBehaviour
     private int totalPlayerNum;
     private int grade;
     [SerializeField] Transform goal;
+    
 
     private void Update()
     {
@@ -98,4 +99,6 @@ public class RacingPlay : MonoBehaviour
     {
         return list_PlayerMove.Count;
     }
+
+
 }

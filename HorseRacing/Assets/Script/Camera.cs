@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Camera : MonoBehaviour
 {
+
     //  카메라가 1등에게  따라 붙게 한다.
     //  필요한 것
     // 1. 카메라 자체의 Transform 컴포넌트
